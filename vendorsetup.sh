@@ -1,5 +1,5 @@
 # Device Common Tree
-git clone https://github.com/ProjectElixir-Devices/device_xiaomi-sm6250-common.git -b 13  device/xiaomi/sm6250-common
+git clone https://github.com/PixelPlusUI-Devices/device_xiaomi_sm6250-common.git -b 13  device/xiaomi/sm6250-common
 
 # Vendor Tree
 git clone --depth=1 https://github.com/ProjectElixir-Devices/vendor_xiaomi_miatoll.git vendor/xiaomi/miatoll
